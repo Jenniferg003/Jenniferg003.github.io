@@ -1,0 +1,150 @@
+body{
+
+    background-color: darkslategrey;
+}
+
+#header {
+	height: 120px;
+	background:url(images/h3.jpg);
+	}
+.titulo{
+    color: white;
+}
+.subtitulo{
+    color: aquamarine;
+}
+.etiquetas{
+    color: white;
+}
+.contenedor{
+    background-color: skyblue;
+}
+.contenedor1{
+    background-color: white
+}
+.contenedor2{
+    background-color: skyblue;
+}
+.nombre{
+    color: white;
+}
+
+.acercaDe{
+    color: aqua;
+}
+
+.subtitulo2{
+    color: white;
+
+}
+.textoES{
+    color: white;
+    font-size: 120%;
+}
+
+.t2{
+    color: white;
+    font-size: 160%;
+}
+.enlace{
+    color: white;
+}
+.ePre{
+    font-size: 150%;
+    color: rgb(99, 174, 177);
+}
+.bloque1{
+    color: white;
+    font-size: 120%;
+}
+.bloque{
+    color: white;
+    font-size: 120%;
+}
+.frontend{
+    color: yellow;
+    font-size: 130%;
+}
+.backend{
+    color: yellow;
+    font-size: 130%;
+}
+#menu {
+	height:35px;
+	line-height:35px;
+	background:url(images/bg-menu.png) repeat-x;
+	padding:0 10px;
+	}
+
+    #menu ul {
+        display: flex; 
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    #menu li {
+        float:left;
+        }
+    #menu li a {
+        padding:0 15px;
+        display:block;
+        color:#ffffff;
+        margin-right:2px;
+        }
+ .texto{
+    color: black;
+    font-style: normal;
+    font-size: 110%;
+    
+ }
+ .texto2{
+    color: white;
+    font-size: 110%;
+ }
+ .pasos{
+    color: white;
+ }
+
+ .contenedor1{
+    font-size: 18px;
+ }
+
+ .fecha{
+    color: white;
+ }
+
+ time{
+    color: white;
+ }
+ dt{
+    color: teal;
+    text-indent: 1%;
+ }
+
+ html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.html{
+    font-size: 130%;
+}
+.css{
+    font-size: 130%;
+}
+.js{
+    font-size: 130%;
+}
+.pasos{
+    font-size: large;
+}
+.negrita{
+        font-weight: bold;
+}
+.canvas{
+    background-color: white;
+}
+
